@@ -3,6 +3,6 @@ This repistory contains the requirement files and folder , which used to carry o
 Our goal is to test a supervised and unsupervised approachs , which allow allow to assign automaticaly tags for a question. Then , we carry out a comparison of the results obtained from the two approachs . Besides we develop an API , which allow to assign tags to each introduced question based on the two tested approachs .  
 So find in this repistory :  
 - The file namely <font color=black> **exploration.ipynb**</font> which allow to bring  cleaning operations, and to extract the stastic tf and tf-idf for each text.  
--The file namely <font color=black> **tests.ipynb**</font> which allow test an supervised approach and unsupervised approach based to the method <font color=black> **LDA**</font>. Then we give a coparatif table of two approachs.
+- The file namely <font color=black> **tests.ipynb**</font> which allow test an supervised approach and unsupervised approach based to the method <font color=black> **LDA**</font>. Then we give a coparatif table of two approachs.
 
   
