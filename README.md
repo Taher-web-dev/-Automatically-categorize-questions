@@ -25,13 +25,13 @@ To get a local copy up and running follow these simple example steps.
 - Clone this project by the command: 
 
 ```
-$ git clone git@github.com:Taher-web-dev/segment-customer-behavior.git
+$ git clone git@github.com:Taher-web-dev/-Automatically-categorize-questions.git
 ```
 
 - Then go to the main folder using the next command:
 
 ```
-$ cd segment-customer-behavior
+$ cd -Automatically-categorize-questions
 ```
 
 ### Prerequisites
